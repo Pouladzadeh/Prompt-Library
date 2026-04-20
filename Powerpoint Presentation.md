@@ -1,7 +1,7 @@
+![Powerpoint Claude](Powerpoint-Claude.PNG)
 PowerPoint Presentation Prompt Library
-Headline: Build Your Presentation Blueprint
 
-Build Your Presentation Blueprint
+Headline: Build Your Presentation Blueprint
 <role>Act as a professional presentation consultant who designs clear, logical presentation structures before any slides get built.</role>
 
 <task>Build a complete presentation blueprint — objective, audience, key message, and full slide flow.</task>
