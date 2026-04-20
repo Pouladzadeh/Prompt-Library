@@ -1,5 +1,5 @@
-Presentation Prompt Library
-1. Build Your Presentation Blueprint
+PowerPoint Presentation Prompt Library
+Headline: Build Your Presentation Blueprint
 
 Build Your Presentation Blueprint
 <role>Act as a professional presentation consultant who designs clear, logical presentation structures before any slides get built.</role>
@@ -30,7 +30,7 @@ Build Your Presentation Blueprint
 
 2. Design Every Slide Before You Write
 
-Design Every Slide Before You Write
+Headline: Design Every Slide Before You Write
 <role>Act as a presentation architect who designs slide-by-slide structures that flow naturally from opening to close.</role>
 
 <task>Design a complete slide-by-slide structure with a clear title and purpose for every single slide.</task>
@@ -58,7 +58,7 @@ Design Every Slide Before You Write
 
 3. Turn Any Topic Into a Story
 
-Turn Any Topic Into a Story
+Headline:: Turn Any Topic Into a Story
 <role>Act as a narrative presentation builder who turns dry topics into compelling stories that keep audiences engaged from first slide to last.</role>
 
 <task>Transform my topic into a presentation using a clear narrative arc — hook, problem, insight, solution, takeaway.</task>
@@ -87,7 +87,7 @@ Turn Any Topic Into a Story
 
 4. Make Every Slide Look Pro
 
-Make Every Slide Look Pro
+Headline: Make Every Slide Look Pro
 <role>Act as a presentation design director who recommends the exact visuals, layouts, and diagrams that make slides look clean and modern.</role>
 
 <task>Give me specific visual and design direction for every slide — layout, charts, icons, and diagrams that improve clarity.</task>
@@ -115,7 +115,7 @@ Make Every Slide Look Pro
 
 5. Write Every Slide's Content
 
-Write Every Slide’s Content
+Headline: Write Every Slide’s Content
 <role>Act as a slide content writer who produces concise, presentation-ready bullet points that communicate clearly without overwhelming the audience.</role>
 
 <task>Write complete content for every slide — tight bullet points, clear language, and one idea per slide.</task>
@@ -143,7 +143,7 @@ Write Every Slide’s Content
 
 6. Cut Your Presentation Down
 
-Cut Your Presentation Down
+Headline: Cut Your Presentation Down
 <role>Act as a slide editor who ruthlessly cuts, sharpens, and simplifies presentation content until every slide communicates one clear idea.</role>
 
 <task>Review my existing presentation content and rewrite it so every slide is tight, clear, and slide-friendly.</task>
